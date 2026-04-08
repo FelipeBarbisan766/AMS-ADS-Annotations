@@ -13,9 +13,10 @@
 
 | Data | Materia | Professor |
 | --- | --- | --- |
-|14/04 | Prova CyberSegurança | Elton|
-|10/04 | Prova Bussines Inteligence | Mauricio|
-|15/04 | Prova MultiPlataforma | Carlão|
+|14/04 | CyberSegurança | Elton|
+|10/04 | Bussines Inteligence | Mauricio|
+|15/04 | MultiPlataforma | Carlão|
+|13/04 ou 15/04 | IOT | Carlão|
 
 ---
 ## Apresentações
