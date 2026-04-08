@@ -5,7 +5,7 @@
 | Data | Materia | Professor | Descrição |
 | --- | --- | --- | --- |
 |10/04 | PI | DelVechio | Entrega do Projeto de PI|
-|09/04 |Ingles | Elielson | Trabalho Sobre [Bussines Talk](https://docs.google.com/document/d/1vnN8oT9tYnQ_GHx2JHHl1Wjmhurtgth_/edit?usp=drive_link&ouid=103162396395302955396&rtpof=true&sd=true) 
+|09/04 |Ingles | Elielson | Trabalho Sobre [Business Communication](https://docs.google.com/document/d/1vnN8oT9tYnQ_GHx2JHHl1Wjmhurtgth_/edit?usp=drive_link&ouid=103162396395302955396&rtpof=true&sd=true) 
 
 ---
 
