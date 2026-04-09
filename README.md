@@ -23,7 +23,7 @@
 
 | Data | Materia | Professor | Descrição |
 | --- | --- | --- | --- |
-|10/04 | PI | DelVechio | Apresentação do Projeto de PI |
+|13/04 | PI | DelVechio | Apresentação do Projeto de PI |
 |14/04 a 23/04 | DevOps | Luciano | Apresentação da Pesquisa por Grupo |
 
 ---
