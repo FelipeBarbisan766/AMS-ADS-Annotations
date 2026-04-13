@@ -14,7 +14,7 @@
 | Data | Materia | Professor |
 | --- | --- | --- |
 |14/04 | CyberSegurança | Elton|
-|13/04 ou 15/04 | IOT | Carlão|
+|15/04 | IOT | Carlão|
 |15/04 | MultiPlataforma | Carlão|
 |16/04 | Mod Pad Proj | Luciano |
 |17/04 | Bussines Inteligence | Mauricio|
@@ -24,7 +24,6 @@
 
 | Data | Materia | Professor | Descrição |
 | --- | --- | --- | --- |
-|13/04 | PI | DelVechio | Apresentação do Projeto de PI |
 |14/04 e 23/04 | DevOps | Luciano | Apresentação da Pesquisa por Grupo |
 
 ---
