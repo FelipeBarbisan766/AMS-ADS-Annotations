@@ -12,7 +12,6 @@
 
 | Data | Materia | Professor |
 | --- | --- | --- |
-|16/04 | Mod Pad Proj | Luciano |
 |17/04 | Bussines Inteligence | Mauricio|
 |22/04 | IOT | Carlão|
 
