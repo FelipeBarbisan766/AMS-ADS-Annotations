@@ -4,7 +4,6 @@
 
 | Data | Materia | Professor | Descrição |
 | --- | --- | --- | --- |
-|14/05 | DevOps | Luciano | Factory |
 |10/06 | IOT | Carlão | Projeto de Carrinho Seguidor de Linhas |
 
 ---
