@@ -4,6 +4,7 @@
 
 | Data | Materia | Professor | Descrição |
 | --- | --- | --- | --- |
+|01/06 | PI | Gustavo | Entrega do 50% do Projeto |
 |10/06 | IOT | Carlão | Projeto de Carrinho Seguidor de Linhas |
 
 ---
